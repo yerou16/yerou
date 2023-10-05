@@ -8,7 +8,7 @@
 
 
 # 作業連結區
-[HW1](https://github.com/yerou16/yerou/blob/main/HW1.ipynb)
+[HW1](https://nbviewer.org/github/yerou16/yerou/blob/main/HW1.ipynb)
 
 # 專題連結區
 Markdown 語法說明：https://markdown.tw/
